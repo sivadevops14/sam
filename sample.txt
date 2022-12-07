@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 welcome siva!
+=======
+welcome!
+siva
+>>>>>>> 2e8511fd2cdd882659726cb1d38ccf9cdf769a4c
